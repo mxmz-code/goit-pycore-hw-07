@@ -162,4 +162,4 @@ return message
 
 ### Результат виконаного ДЗ
 
-![Results](/assets/01_screen.png)
+![Results](/assets/image-1.png)
